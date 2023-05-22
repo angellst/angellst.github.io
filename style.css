@@ -1,0 +1,80 @@
+body {
+    background-image: url(imagenes/fondo.jpg);
+    
+}
+
+.ahriuwu {
+    width: 650px;
+    margin-left: 60px;
+}
+.ahrihistoria {
+  
+    
+}
+.contenedor {
+    display: flex;
+}
+
+.contenedor2 {
+    display: flex;
+}
+
+.akaliuwu {
+    width: 650px;
+    margin-left: 60px;
+}
+
+.evelynnuwu{
+    width: 650px;
+    margin-left: 60px;
+}
+
+.contenedor3 {
+    display:flex;
+}
+.kaisauwu {
+    width: 650px;
+    margin-left: 60px;
+}
+.contenedor4
+{
+    display: flex;
+}
+.seraphineuwu {
+width: 650px;
+margin-left: 60px;
+}
+.contenedor5
+{
+    display: flex;
+}
+.titulo {
+display: flex;
+}
+.titulouwu {
+    width: 800px;
+margin-left: 300px;
+}
+.swiper{
+    width: 400px;
+    height: 400px;
+    padding: 100px 0;
+
+}
+.swiper-slide{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+@media(max-width:991px){
+    body {
+    padding: 0 100px;
+    }
+}
